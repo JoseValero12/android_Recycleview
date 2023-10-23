@@ -1,0 +1,654 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="900"
+    android:viewportHeight="600"
+    android:width="900dp"
+    android:height="600dp">
+    <path
+        android:pathData="M413 325L480 264L388 216Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M480 264L513 160L388 216Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M304 394L421 423L413 325Z"
+        android:fillColor="#1D4E6B"
+        android:strokeColor="#1D4E6B"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M413 325L529 383L480 264Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M513 160L489 122L388 216Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M272 182L261 263L388 216Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M388 216L261 263L413 325Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M421 423L529 383L413 325Z"
+        android:fillColor="#1D4E6B"
+        android:strokeColor="#1D4E6B"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M480 264L586 191L513 160Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M372 78L272 182L388 216Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M261 263L304 394L413 325Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M529 383L583 329L480 264Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M583 329L586 191L480 264Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M513 160L639 136L489 122Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M489 122L372 78L388 216Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M529 383L584 396L583 329Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M673 216L639 136L586 191Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M504 525L584 396L529 383Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M272 182L221 170L261 263Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M261 263L167 367L304 394Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M280 83L221 170L272 182Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M372 78L280 83L272 182Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M221 170L181 271L261 263Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M270 527L430 518L421 423Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M421 423L504 525L529 383Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M673 216L586 191L583 329Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M586 191L639 136L513 160Z"
+        android:fillColor="#112E42"
+        android:strokeColor="#112E42"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M489 122L417 0L372 78Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M739 335L673 216L583 329Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M503 0L417 0L489 122Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M372 78L316 0L280 83Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M430 518L504 525L421 423Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M181 271L167 367L261 263Z"
+        android:fillColor="#1D4E6B"
+        android:strokeColor="#1D4E6B"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M304 394L270 527L421 423Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M579 0L503 0L489 122Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M417 0L316 0L372 78Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M280 83L195 65L221 170Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M162 482L270 527L304 394Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M430 518L470 600L504 525Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M238 0L195 65L280 83Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M74 229L81 295L181 271Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M181 271L133 362L167 367Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M81 295L133 362L181 271Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M167 367L162 482L304 394Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M504 525L591 519L584 396Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M735 369L739 335L583 329Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M639 136L579 0L489 122Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M316 0L238 0L280 83Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M673 216L699 103L639 136Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M639 136L699 103L579 0Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M735 369L583 329L584 396Z"
+        android:fillColor="#112E42"
+        android:strokeColor="#112E42"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M673 216L763 124L699 103Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M675 517L735 369L584 396Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M330 600L433 600L430 518Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M504 525L601 600L591 519Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M133 362L162 482L167 367Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M270 527L330 600L430 518Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M433 600L470 600L430 518Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M74 229L181 271L221 170Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 433L124 522L162 482Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M170 600L330 600L270 527Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M119 78L221 170L195 65Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M119 78L74 229L221 170Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M135 0L119 78L195 65Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M601 600L675 517L591 519Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M591 519L675 517L584 396Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M832 202L763 124L673 216Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M699 103L713 0L579 0Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M787 416L800 274L739 335Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M739 335L800 274L673 216Z"
+        android:fillColor="#112E42"
+        android:strokeColor="#112E42"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M787 416L739 335L735 369Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M470 600L601 600L504 525Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M238 0L135 0L195 65Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 212L0 297L74 229Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 433L162 482L133 362Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M162 482L170 600L270 527Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M778 0L713 0L699 103Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M803 510L787 416L675 517Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M675 517L787 416L735 369Z"
+        android:fillColor="#1D4E6B"
+        android:strokeColor="#1D4E6B"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 222L832 202L800 274Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M800 274L832 202L673 216Z"
+        android:fillColor="#112E42"
+        android:strokeColor="#112E42"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M763 124L778 0L699 103Z"
+        android:fillColor="#112E42"
+        android:strokeColor="#112E42"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M124 522L170 600L162 482Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M74 229L0 297L81 295Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M81 295L0 433L133 362Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 212L74 229L0 81Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 81L74 229L119 78Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M601 600L709 600L675 517Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 134L778 0L763 124Z"
+        android:fillColor="#15384F"
+        android:strokeColor="#15384F"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 534L116 600L124 522Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M124 522L116 600L170 600Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 297L0 433L81 295Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M764 600L803 510L675 517Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 337L900 222L800 274Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 0L0 81L119 78Z"
+        android:fillColor="#246688"
+        android:strokeColor="#246688"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M709 600L764 600L675 517Z"
+        android:fillColor="#19435D"
+        android:strokeColor="#19435D"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 337L800 274L787 416Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M832 202L900 134L763 124Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 361L900 337L787 416Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 361L787 416L900 487Z"
+        android:fillColor="#081A28"
+        android:strokeColor="#081A28"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 487L787 416L803 510Z"
+        android:fillColor="#112E42"
+        android:strokeColor="#112E42"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 222L900 134L832 202Z"
+        android:fillColor="#0C2435"
+        android:strokeColor="#0C2435"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M135 0L0 0L119 78Z"
+        android:fillColor="#205A7A"
+        android:strokeColor="#205A7A"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 433L0 534L124 522Z"
+        android:fillColor="#277297"
+        android:strokeColor="#277297"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 600L900 487L803 510Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M0 534L0 600L116 600Z"
+        android:fillColor="#297EA6"
+        android:strokeColor="#297EA6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M900 134L900 0L778 0Z"
+        android:fillColor="#1D4E6B"
+        android:strokeColor="#1D4E6B"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+    <path
+        android:pathData="M764 600L900 600L803 510Z"
+        android:fillColor="#00101C"
+        android:strokeColor="#00101C"
+        android:strokeWidth="1"
+        android:strokeLineJoin="bevel" />
+</vector>
